@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updateserver>
+	<latestversion>102</latestversion>
+	<downloadurl>http://zppy-repo.mach-hosting.com/repo/powerplug.zpp</downloadurl>
+	<desc>Power Plug is a simple module that enables you to shutdown or restart your server from the Sentora web interface.</desc>
+	<updatedesc>Fixed layout.</updatedesc>
+	<authorname>Bobby Allen</authorname>
+	<authoremail>bobbyallen.uk@gmail.com</authoremail>
+	<authorurl>http://www.sentora.org</authorurl>
+	<ostype>all</ostype>
+</updateserver>

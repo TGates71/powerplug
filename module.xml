@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+<name>Power Plug</name>
+<version>101</version>
+<type>user</type>
+<defaultcat>Server Admin</defaultcat>
+<desc>Power Plug is a simple module that enables you to shutdown or restart your server from the Sentora web interface.</desc>
+<authorname>Bobby Allen</authorname>
+<authoremail>bobbyallen.uk@gmail.com</authoremail>
+<authorurl>http://www.codejunkie87.com/</authorurl>
+<updateurl>http://zppy-repo.mach-hosting.com/repo/powerplug.xml</updateurl>
+</module>
