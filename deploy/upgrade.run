@@ -21,6 +21,6 @@ function UpgradeModule($newversion, $module){
     $stmt->execute();     
 }
 // First variable is the new version. Second variable is the module name.
-UpgradeModule('101', 'powerplug');
+UpgradeModule('102', 'powerplug');
 
 ?> 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <module>
 <name>Power Plug</name>
-<version>101</version>
+<version>102</version>
 <type>user</type>
 <defaultcat>Server Admin</defaultcat>
 <desc>Power Plug is a simple module that enables you to shutdown or restart your server from the Sentora web interface.</desc>
